@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "student99",
+    "passwordHash": "$2b$10$LsFwPAme0PTj6r8ofZP9e.EuD0u3xv/TQCcsj6vZz3WuHdLXcOwGy",
+    "name": "student99",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "username": "oleg",
+    "passwordHash": "$2b$10$jq8IfzgcR5vsZe9GDQ/oBu.G18EsrxPnnsAE2wUGQmr3o8/jn2iQC",
+    "name": "Oleg",
+    "role": "admin"
+  }
+]
